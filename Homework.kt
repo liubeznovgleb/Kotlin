@@ -3,8 +3,8 @@ import java.math.BigDecimal
 import java.math.RoundingMode
 
 
-const val filePath = "C://Kotlin_1.txt"
-const val outputFileName = "Kotlin_1.txt"
+val filePath = "C://Kotlin_1.txt"
+val outputFileName = "Kotlin_1.txt"
 
 
 class City(val name: String, val measurement: Double)
